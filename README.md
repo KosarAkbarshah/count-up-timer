@@ -55,8 +55,6 @@ Contributions, issues, and feature requests are welcome!
 
 - 🕰Created - 2024-11-27
 
--🪄 Technologies Used - HTML5, CSS3, javaScript
-
 -👩‍💻 Role - Frontend 
 
 -💭 How to reach me : Kosar Akbarshah [linkedin](https://www.linkedin.com/in/kosar-akbarshah-22102b1b6/)
