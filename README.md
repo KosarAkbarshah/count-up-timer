@@ -46,7 +46,8 @@ Contributions, issues, and feature requests are welcome!
 
 **Happy Timing! ⏱️**
 
-![Screenshot 2024-11-27 222801](https://github.com/user-attachments/assets/12b06a2c-a457-4774-ba33-173f3099d827)
+![Screenshot 2024-11-30 200012](https://github.com/user-attachments/assets/b236d0c3-e692-4b31-a41a-a86020f51361)
+
 
 
 - 💡[Demo Project]( https://kosarakbarshah.github.io/count-up-timer/)
